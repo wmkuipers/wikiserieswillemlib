@@ -13,3 +13,9 @@ History
 ------------------
 
 * Initial code release
+
+
+0.2.0 (01-05-2023)
+------------------
+
+* Fix dependencies
